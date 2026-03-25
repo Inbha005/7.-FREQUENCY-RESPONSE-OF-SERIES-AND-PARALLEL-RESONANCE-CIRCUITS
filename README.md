@@ -86,8 +86,8 @@ parallel:
 8.	Repeat steps 1 through 7 for Parallel resonance circuit  shown.
 
 **Mark split up:**
+<img width="1600" height="1150" alt="image" src="https://github.com/user-attachments/assets/c853fb63-dedf-40be-8453-d784a26dd282" />
 
-![Uploading image.png…]()
 
 
 **RESULT:**
